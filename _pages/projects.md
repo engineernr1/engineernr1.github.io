@@ -1,11 +1,11 @@
 ---
 layout: page
-title: projects
+title: Contributions
 permalink: /projects/
-description: A growing collection of your cool projects.
+description: A growing collection of intellectual contributions.
 nav: true
 nav_order: 3
-display_categories: [work, fun]
+display_categories: [Urdu Books, Upcoming Books, Urdu Articles]
 horizontal: false
 ---
 

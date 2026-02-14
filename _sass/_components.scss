@@ -47,6 +47,13 @@ ul.task-list input[type="checkbox"] {
   .card-title {
     color: var(--global-text-color);
   }
+  
+  .card-title-ur {
+    color: var(--global-text-color);
+	font-family: Jameel Noori Nastaleeq;
+    text-align: right;
+    direction: rtl;
+  }
 
   .card-body {
     padding: 1.25rem 1.25rem 1.25rem 1.25rem;
